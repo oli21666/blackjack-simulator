@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="title_blackjack">BLACKJACK</string>
+    <string name="dealer_title">KRUPIER</string>
+    <string name="player_title">GRACZ</string>
+
+    <string name="score_placeholder">0</string>
+    <string name="score_format">%1$d</string>
+    <string name="balance_format">Saldo: $%1$d</string>
+    <string name="bet_format">Zakład: $%1$d</string>
+
+    <string name="btn_hit">Dobierz</string>
+    <string name="btn_stand">Pasuj</string>
+    <string name="btn_double">Podwój</string>
+    <string name="btn_deal">Rozdaj</string>
+    <string name="btn_clear_bet">Wyczyść</string>
+
+    <string name="chip_10">+10</string>
+    <string name="chip_25">+25</string>
+    <string name="chip_100">+100</string>
+    <string name="chip_500">+500</string>
+
+    <string name="status_welcome">Wybierz żetony i naciśnij ROZDAJ</string>
+    <string name="status_player_turn">Twój ruch: Dobierz, Pasuj lub Podwój</string>
+    <string name="status_dealer_turn">Krupier dobiera karty&#8230;</string>
+    <string name="status_win">Wygrana! +$%1$d</string>
+    <string name="status_blackjack">BLACKJACK! Wygrana +$%1$d</string>
+    <string name="status_bust">Fura! Przekroczyłeś 21 pkt.</string>
+    <string name="status_dealer_bust">Krupier przekroczył 21! Wygrana +$%1$d</string>
+    <string name="status_dealer_win">Krupier wygrywa.</string>
+    <string name="status_push">Remis! Zwrot zakładu.</string>
+    <string name="status_out_of_chips">Brak środków! Kliknij ROZDAJ aby zrestartować ($1000)</string>
+
+    <string name="disclaimer_gambling">Gra ma charakter wyłącznie symulacyjny (wirtualna waluta). Hazard może uzależniać. Graj odpowiedzialnie (18+).</string>
+</resources>
